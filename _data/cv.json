@@ -14,14 +14,14 @@
     },
     "profiles": [
       {
-        "network": "Google Scholar",
+        "network": "",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": ""
       },
       {
-        "network": "ORCID",
+        "network": "",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": ""
       },
       {
         "network": "GitHub",
@@ -33,44 +33,44 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
+      "institution": "University of Stuttgart",
+      "area": "Computational Linguistics",
+      "studyType": "Master of Science",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "endDate": "2025",
+      "gpa": 2.1,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
+      "institution": "University of Mumbai",
+      "area": "Linguistics",
+      "studyType": "Master of Arts",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "endDate": "2021",
+      "gpa": 8.08,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Mithibai College of Arts (University of Mumbai)",
+      "area": "B.A. English Literature",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "endDate": "2019",
+      "gpa": 8.98,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": [English, Hindi, Tamil, Marathi, German, French],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
     },
     {
       "name": "Paper Title Number 2",
